@@ -1,5 +1,6 @@
-FAAH
-KJHFASHUJFJKHLBF
+__uuuu__
+kasfjajsfjaofa
+>>>>>>> feature/conflict-demo
 # moje-pierwsze-repo
 ## Pierwsze
 Zastanawiam się, co gdyby kamienie mogłyby myśleć, słyszeć i widzieć. **Czy miałyby marzenia?**
