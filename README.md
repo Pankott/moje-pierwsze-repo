@@ -1,5 +1,5 @@
 # moje-pierwsze-repo
-## Pierwsze primo
+## Pierwsze
 Zastanawiam się, co gdyby kamienie mogłyby myśleć, słyszeć i widzieć. **Czy miałyby marzenia?**
 ## Dwa
 Moje ulubione potrawy to:
